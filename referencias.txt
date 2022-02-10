@@ -1,0 +1,12 @@
+REFERENCIAS
+
+1. Cómo hacer un videojuego con Python (https://youtu.be/bW0o4g4cg1g)
+2. turtle — Gráficos con Turtle (https://docs.python.org/es/3.9/library/turtle.html#turtle.addshape)
+3. Live Python Coding - Space Station Defense Game (https://www.youtube.com/watch?v=QiZPWZum_q8)
+4. Python / Pygame Tutorial: An introduction to sprites (https://www.youtube.com/watch?v=hDu8mcAlY4E)
+5. Cómo hacer un videojuego con Python (https://youtu.be/bW0o4g4cg1g)
+6. Gráficos: el módulo turtle (1) (https://www.mclibre.org/consultar/python/lecciones/python-turtle-1.html)
+7. Python 3 - Tkinter tkMessageBox (https://www.tutorialspoint.com/python3/tk_messagebox.htm)
+8. Python --- (diez) componente de la ventana de Tkinter (https://programmerclick.com/article/9657736117/)
+9. Variables de control en Tkinter (https://python-para-impacientes.blogspot.com/2016/02/variables-de-control-en-tkinter.html)
+10. Introducción a Tcl/Tk (tkinter) (https://recursospython.com/guias-y-manuales/introduccion-a-tkinter/)
